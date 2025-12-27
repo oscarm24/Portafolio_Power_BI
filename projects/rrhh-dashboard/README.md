@@ -1,5 +1,6 @@
 💼 Proyecto Personal | Dashboard de Recursos Humanos en Power BI
-🚀 En mi proceso de aprendizaje y fortalecimiento en análisis de datos, desarrollé un informe interactivo de Recursos Humanos con Power BI, enfocado en visualizar indicadores clave como remuneraciones, sueldos por género, posiciones y departamentos.
+🚀 En mi proceso de aprendizaje y fortalecimiento en análisis de datos, desarrollé un informe interactivo de Recursos Humanos con Power BI, 
+enfocado en visualizar indicadores clave como remuneraciones, sueldos por género, posiciones y departamentos.
 
 Entre los principales hallazgos destacan:
 💰 Remuneraciones Totales
